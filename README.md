@@ -1,5 +1,5 @@
 # Financial Website 
- - live link https://jeffpwalsh.github.io/hotel-website/index.html
+ - live link https://jeffpwalsh.github.io/financial-website/index.html
  
  
  ![FINANCIAL WEBSITE RENDER](/render.JPG)
@@ -48,7 +48,7 @@
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/hotel-website/index.html
+- https://jeffpwalsh.github.io/financial-website/index.html
   
  ## Log
  17/07/2020
