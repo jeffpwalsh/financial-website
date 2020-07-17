@@ -27,12 +27,14 @@
 - CSS
 - JavaScript
 - jQuery
-- [Lightbox JS Library](https://github.com/lokesh/lightbox2)
+- Lightbox JS Library
 - Google Fonts
 - VS Code
 - Gitbash
 - Google Chrome
 ```
+[Lightbox JS documentation](https://github.com/lokesh/lightbox2)
+
 
 ## Sources
 
