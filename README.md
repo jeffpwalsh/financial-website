@@ -1,5 +1,5 @@
 # Financial Website 
- - live link https://jeffpwalsh.github.io/financial-website/index.html
+ - live link http://financial.website.jeffwalsh.co.za/
  
  
  ![FINANCIAL WEBSITE RENDER](/render.JPG)
@@ -8,6 +8,7 @@
  ## Description
  - Custom CSS with Flexbox, HTML and JavaScript *theme* for a Financial Website.
  - Responsive design (Media Queries: max-width: 768px)
+ - Form submission via PHP
  
 ## Table of Contents
 ``` 
@@ -18,6 +19,8 @@
 - #contact
 - styles.css
 - utilities.css
+- process.php
+- success.html
 ```
     
 ## Technologies & Tools Used
@@ -27,6 +30,7 @@
 - CSS
 - JavaScript
 - jQuery
+- PHP
 - Lightbox JS Library
 - Google Fonts
 - VS Code
@@ -50,7 +54,7 @@
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/financial-website/index.html
+- http://financial.website.jeffwalsh.co.za/
   
  ## Log
  17/07/2020
@@ -58,5 +62,9 @@
 - Main branch commit
 - README created
 - Deployed
+
+23/07/2020
+
+- PHP form submission added
 
 
