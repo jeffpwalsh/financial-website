@@ -172,6 +172,11 @@ img {
   border: #f5f5f5 1px solid grey;
 }
 
+.callback-form input#message {
+
+  height: 100px;
+}
+
 .callback-form input:focus {
   outline-color: #28a745;
 }
